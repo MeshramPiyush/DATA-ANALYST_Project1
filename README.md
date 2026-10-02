@@ -13,7 +13,7 @@ An end-to-end healthcare data analytics and risk stratification project designed
 Clinical risk stratification identifies patient populations prone to complications, prolonged hospitalization, and elevated medical expenses. This project models and analyzes hospital records across four core relational dimensions: patient demographics, clinical diagnoses, laboratory test results, and discharge outcomes.
 
 The project demonstrates:
-* Relational database design and foreign key integrity in **SQL Server (T-SQL)**.
+* Relational database design and foreign key integrity in **SQL Server**.
 * Clinical metric reporting and risk cohort identification via **SQL queries**.
 * Exploratory data analysis, statistical breakdowns, and distribution insights via **Python (Pandas, Matplotlib/Seaborn)**.
 * Tabular validations and pivot aggregations in **Excel**.
@@ -22,7 +22,7 @@ The project demonstrates:
 
 ## 🛠️ Tech Stack & Tools
 
-* **Database Engine:** Microsoft SQL Server (SSMS), T-SQL
+* **Database Engine:** Microsoft SQL Server (SSMS)
 * **Data Processing & Analysis:** Python, Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Spreadsheet Analysis:** Microsoft Excel (Pivot tables, conditional formatting, summary metrics)
