@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load('Risk_model1.ipynb')
+model = joblib.load('Risk_Model1.ipynb')
 
 st.title("Healthcare Risk Stratisfication App")
 
